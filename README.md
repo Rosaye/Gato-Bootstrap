@@ -1,5 +1,5 @@
 # Gato-Bootstrap
-Création d'une petite page internet de recette de gateau de chocolat en boostrap.
+Création d'une petite page internet de recette de gateau de chocolat en bootstrap.
 
 petit projet réalisé pour une amie, elle désirait une petite page sympathique avec la recette du gateau au chocolat,
 bien que rudimentaire, elle représente les simples étapes à suivres afin de concoter ce délicieux déssert.
